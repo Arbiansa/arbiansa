@@ -26,4 +26,4 @@ I commute daily between Gresik and Madura for my internship, which keeps me ener
 
 ## 📫 Get in Touch:
 - [LinkedIn](https://www.linkedin.com/in/muhammad-arbiansyafa-siswanto-6267b3288/)
-- [Email](mailto:muhammadarbiansyafa@example.com)
+- [Email](mailto:arbiiansa@gmail.com)
