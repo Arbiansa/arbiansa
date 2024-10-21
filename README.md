@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Muhammad Arbiansyafa Siswanto!
+# 👋 Hi, I'm Muhammad Arbiansyafa Siswanto
 
 I'm a dedicated Informatics Engineering student, actively participating in the **MBKM (Merdeka Belajar Kampus Merdeka)** program at the UPA TIK on Trunojoyo University Madura. I'm currently involved in various IT projects, including developing safety detection systems and building applications. My journey includes hands-on experience in web and software development, object detection, and IT support roles.
 
