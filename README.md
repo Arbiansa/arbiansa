@@ -19,11 +19,17 @@ I'm passionate about creating impactful solutions through **software development
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arbiansa&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arbiansa&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arbiansa&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arbiansa&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arbiansa&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
+
+## 💬 Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 
 ## 🚀 Projects
 ### 🛡️ [SIDAMABA](https://github.com/Arbiansa/sidamaba)
