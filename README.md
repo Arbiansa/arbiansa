@@ -1,54 +1,54 @@
-# 🌟 Welcome to My GitHub Portfolio! 🌟
+# Hi, I'm Muhammad Arbiansyafa Siswanto 👋
 
-### Hi, I'm **Muhammad Arbiansyafa Siswanto** 👋
-I'm an enthusiastic **Informatics Engineering** student and a developer with a passion for building impactful tech solutions. From web development to machine learning, I'm always pushing boundaries to learn new skills and improve the world with code.
+### Informatics Engineering Student | IT Developer
 
----
-
-## 🚀 About Me
-- 🔭 **Current Projects**: Interning at **PT Gresik Jasatama** working on safety detection (YOLOv5, YOLOv8) and developing **SIDAMABA** for student data management.
-- 🌱 **Learning**: Diving deep into **Elixir**, **Phoenix**, and **containerization** with **Docker & Kubernetes**.
-- 💬 **Fun Fact**: I love working on community projects like the **solar shelf** system I helped design during my KKN in Madura!
+I'm passionate about creating impactful solutions through **software development** and **machine learning**. My key focus areas include **safety detection systems**, **full-stack web development**, and **cloud technologies**. I'm currently expanding my knowledge of **Elixir**, **Phoenix**, and **containerization**.
 
 ---
 
-## 🛠️ Tech Toolbox
+## 🛠 Tech Stack & Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat&logo=elixir&logoColor=white)
+![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?style=flat&logo=yolo&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/Code-Elixir-purple?style=flat&logo=elixir" />
-  <img src="https://img.shields.io/badge/Framework-Phoenix-orange?style=flat&logo=phoenix" />
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-blue?style=flat&logo=postgresql" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-YOLO-yellowgreen?style=flat&logo=yolo" />
-  <img src="https://img.shields.io/badge/Tools-Docker-blue?style=flat&logo=docker" />
-  <img src="https://img.shields.io/badge/Version%20Control-Git-blue?style=flat&logo=git" />
-  <img src="https://img.shields.io/badge/Editor-VS%20Code-blue?style=flat&logo=visual-studio-code" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arbiansa&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arbiansa&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
 
-## 🔥 Highlighted Projects
+## 🚀 Projects
+### 🛡️ [SIDAMABA](https://github.com/Arbiansa/sidamaba)
+A web application designed for managing new student data with three access levels: admin, verifier, and prospective students. Built with **Elixir** and **Phoenix**, providing a streamlined admission process for universities.
 
-### 🛡️ **Safety Detection System**
-Developed an advanced **personal protective equipment (PPE) detection system** using **YOLOv5** and **YOLOv8** to ensure construction site safety. This system recognizes helmets, vests, and more to improve workplace security.
+### 🦺 **Safety Detection System**
+Developed a safety detection system using **YOLOv5** and **YOLOv8** to identify personal protective equipment (PPE) such as helmets on construction sites. This project aims to enhance workplace safety and compliance.
 
-### 📊 **SIDAMABA Application**
-A powerful platform for managing new student data with admin, verifier, and student access roles. Built using **Elixir** and **Phoenix**, this application streamlines student admissions for universities.
-
-### 🌞 **Solar Shelf Project**
-During my KKN, I led a project to create a **solar energy shelf** in Desa Temoran, helping rural communities adopt renewable energy!
-
----
-
-## 🌟 Awards & Achievements
-- 🏆 **Top Intern of the Month**: PT Gresik Jasatama
-- 🥇 **Best KKN Project**: Community Solar Shelf Installation
-- 🎓 **Dean's List**: Academic Excellence in Informatics Engineering
+### ☀️ **Solar Shelf Project**
+Led a community project during my KKN, creating a solar shelf system to promote renewable energy usage in rural areas, specifically in Desa Temoran, Madura.
 
 ---
 
-## 📫 Connect with Me!
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin)](https://www.linkedin.com/in/muhammad-arbiansyafa-siswanto-6267b3288/)
-- [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=Instagram)](https://www.instagram.com/arbiansa)
-- [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/Arbiansa)
+## 🌱 What I'm Learning
+- Advanced **Elixir** and **Phoenix** for building scalable applications.
+- **Docker** for containerization and deployment of applications.
+- Enhancing skills in **data science** and machine learning techniques.
 
-Thanks for stopping by! Let's build something amazing together! 😊
+---
+
+## 🌐 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammad-arbiansyafa-siswanto-6267b3288/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/arbiansa)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/Arbiansa)
+
+---
+
+Thank you for visiting my profile! Feel free to reach out if you'd like to collaborate on exciting projects or have a chat about technology. 😊
