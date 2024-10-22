@@ -1,6 +1,6 @@
 <!-- [![header_2](https://raw.githubusercontent.com/arbiansa/arbiansa/main/header_new.png)](https://arbiansa.github.io/) -->
 
-### Hello folks, my name is Muhammad Arbiansyafa Siswanto 👋
+### 👋 Hello!, My name is Muhammad Arbiansyafa Siswanto
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/muhammad-arbiansyafa-siswanto-6267b3288/">
@@ -21,10 +21,11 @@
 #### Tools :
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp;
-![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-4F5B93?style=flat&logo=phpmyadmin&logoColor=white)&nbsp;
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)&nbsp;
 
 #### Language :
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
@@ -38,9 +39,11 @@
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4236?style=flat&logo=codeigniter&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)&nbsp;
 ![Phoenix](https://img.shields.io/badge/Phoenix-8E44AD?style=flat&logo=elixir&logoColor=white)&nbsp;
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)&nbsp;
 
 #### Database : 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-4F5B93?style=flat&logo=phpmyadmin&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)&nbsp;
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)&nbsp;
 
