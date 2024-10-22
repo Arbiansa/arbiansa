@@ -1,50 +1,88 @@
-# Hi, I'm Muhammad Arbiansyafa Siswanto 👋
+# Muhammad Arbiansyafa Siswanto
 
-### 👨‍💻 Informatics Engineering Student | IT Developer
+**Informatics Engineering Student at Trunojoyo University of Madura**
 
-I'm passionate about leveraging technology to create solutions in software development and machine learning. Currently, I'm focused on building safety detection systems and enhancing web applications.
-
----
-
-## 🛠 Tech Stack & Tools
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat&logo=elixir&logoColor=white)
-![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?style=flat&logo=yolo&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Profile Picture](link_to_your_profile_picture)  <!-- Ganti dengan link foto profil yang sesuai -->
 
 ---
 
-## 🔥 My Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arbiansa&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arbiansa&theme=radical" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arbiansa&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+## About Me
+
+Saya adalah mahasiswa Teknik Informatika yang memiliki ketertarikan mendalam dalam pengembangan aplikasi web dan mobile. Dengan pengalaman magang di beberapa perusahaan, saya berkomitmen untuk mengembangkan solusi teknologi yang inovatif dan efektif. Saya memiliki kemampuan dalam berbagai bahasa pemrograman dan teknologi, serta pengalaman dalam proyek deteksi dengan YOLOv5 dan YOLOv8.
 
 ---
 
-## 🚀 Projects
-- **[SIDAMABA](https://github.com/Arbiansa/sidamaba)**: A web app for managing new student data, built with **Elixir** and **Phoenix**.
-- **Safety Detection System**: Developed a detection system for personal protective equipment using **YOLOv5** and **YOLOv8**.
-- **Solar Shelf Project**: Led a community initiative for renewable energy usage in Desa Temoran, Madura.
+## Skills
+
+### Languages & Technologies
+- **Programming Languages:** HTML5, CSS3, JavaScript, PHP, Python, Elixir, Erlang
+- **Frameworks:** React, Bootstrap, Laravel, Phoenix
+- **Database:** MySQL, TensorFlow (untuk proyek deteksi)
+- **Version Control:** Git, GitHub
+- **Design Tools:** Photoshop
+
+### Soft Skills
+- Cepat belajar
+- Keterampilan komunikasi yang baik
+- Pemecahan masalah yang efektif
 
 ---
 
-## 🌱 What I'm Learning
-- Advanced **Elixir** and **Phoenix** for building scalable applications.
-- **Docker** for containerization.
-- Data science and machine learning techniques.
+## Experience
+
+### Internships
+- **PT Gresik Jasatama**  
+  *Tim IT - Deteksi Safety APD*  
+  - Mengembangkan solusi deteksi untuk memastikan keselamatan di lokasi konstruksi.
+
+- **Trusttech**  
+  *Program MBKM*  
+  - Berpartisipasi dalam proyek pengembangan perangkat lunak dan kolaborasi tim.
+
+- **CV Garmesindo**  
+  *Front-end Developer*  
+  - Mengembangkan antarmuka pengguna yang responsif dan menarik.
+
+- **UPA TIK, Universitas Trunojoyo Madura**  
+  *Program MBKM*  
+  - Terlibat dalam proyek teknologi informasi dan pengembangan aplikasi.
+
+### Project Highlights
+- **SIDAMABA Application:**  
+  Aplikasi web untuk penginputan data mahasiswa baru dengan berbagai level akses, menggunakan Elixir dan Phoenix.
+
+- **Construction Site Safety Image Dataset:**  
+  Proyek deteksi menggunakan YOLOv5 dan YOLOv8 untuk mendeteksi penggunaan APD yang tepat di lokasi konstruksi.
+
+- **KKN Tematik di Desa Temoran:**  
+  Ketua Sie PPD dan penanggung jawab pembuatan solar shelf untuk mendukung energi terbarukan.
 
 ---
 
-## 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammad-arbiansyafa-siswanto-6267b3288/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/arbiansa)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/Arbiansa)
+## Education
+- **Trunojoyo University of Madura**  
+  *Jurusan Teknik Informatika*  
+  - Tanggal Masuk: [Tahun Masuk]  
+  - Tanggal Lulus: [Tahun Lulus yang Diharapkan]  
 
 ---
 
-Thank you for visiting my profile! Feel free to reach out for collaboration or discussions about technology. 😊
+## Projects on GitHub
+- **[SIDAMABA Application](https://github.com/Arbiansa/sidamaba):** Aplikasi web untuk penginputan data mahasiswa baru.
+- **[Construction Site Safety Detection](https://github.com/Arbiansa/construction-site-safety-detection):** Proyek deteksi menggunakan YOLOv5 dan YOLOv8.
+- **[Various Web Projects](https://github.com/Arbiansa):** Kumpulan proyek pengembangan web dan aplikasi lainnya.
+
+---
+
+## Contact
+- **LinkedIn:** [Muhammad Arbiansyafa Siswanto](https://www.linkedin.com/in/muhammad-arbiansyafa-siswanto-6267b3288/)
+- **GitHub:** [Arbiansa](https://github.com/Arbiansa)
+
+---
+
+## Portfolio
+Kunjungi portofolio saya di [https://arbiansa.github.io/](https://arbiansa.github.io/) untuk melihat proyek dan pengalaman lebih lanjut.
+
+---
+
+Terima kasih telah mengunjungi profil saya!
