@@ -54,10 +54,9 @@
 
 ### :fire: My Stats :
 
-<img align="left" height="200px" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Arbiansa&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" alt="Arbiansyafa's GitHub Stats"> 
-<img align="right" width="49%" height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Arbiansa&langs_count=8&layout=compact&hide_border=true&theme=radical" alt="Arbiansyafa's Most Used Language">
+<div style="display: flex; justify-content: space-between;">
+    <img align="center" height="200px" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Arbiansa&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" alt="Arbiansyafa's GitHub Stats"> 
+    <img align="center" width="49%" height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Arbiansa&langs_count=8&layout=compact&hide_border=true&theme=radical" alt="Arbiansyafa's Most Used Language">
+</div>
+
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Arbiansa&hide_border=true&theme=radical">
-
----
-
-Terima kasih telah mengunjungi profil saya!
