@@ -11,11 +11,11 @@
   </a>
 </div>
 
-- 🔭 I’m currently studying Informatics Engineering at Trunojoyo University of Madura
-- 🌱 I’m currently learning backend engineering, cloud computing, DevOps, and machine learning
-- 👯 I’m looking to collaborate on projects related to web and mobile development
-- 💬 Ask me about web development and data science 
-- ✈️ You can visit my portfolio website: [https://arbiansa.github.io/](https://arbiansa.github.io/)
+- I’m currently studying Informatics Engineering at Trunojoyo University of Madura
+- I’m currently learning backend engineering, cloud computing, DevOps, and machine learning
+- I’m looking to collaborate on projects related to web and mobile development
+- Ask me about web development and data science.
+- You can visit my portfolio website: [https://arbiansa.github.io/](https://arbiansa.github.io/)
 
 ### :hammer_and_wrench: Languages and Tools :
 #### Tools :
